@@ -1,2 +1,3 @@
 # hello-world
-Kick starting a new repository
+
+A kite dancing in the hurricane and kick starting a new repository
